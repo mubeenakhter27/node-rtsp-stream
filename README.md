@@ -10,4 +10,4 @@ Capture image using RTSP stream in NodeJS and HTML "CANVAS" tag
 - npm install node-rtsp-stream
 - node app.js
 - double click index.html
-![Sample](https://github.com/mubeenakhter27/node-rtsp-stream/images/untitled.png)
+![Sample](https://github.com/mubeenakhter27/node-rtsp-stream/blob/master/images/Untitled.png)
